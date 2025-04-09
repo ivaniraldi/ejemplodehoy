@@ -1,0 +1,8 @@
+ls = listar directorios
+pwd = ver la ruta donde estoy parado en la terminal
+ls -a = listar directorios y archivos ocultos
+mkdir = crear carpetas(directorios)
+touch = crear archivos ⚠️ COLOCAR LA EXTENSION
+
+ELIMINAR CARPETA .GIT 
+rm -rf .git
