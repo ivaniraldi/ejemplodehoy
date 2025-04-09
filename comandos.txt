@@ -4,11 +4,16 @@ ls -a = listar directorios y archivos ocultos
 mkdir = crear carpetas(directorios)
 touch = crear archivos ⚠️ COLOCAR LA EXTENSION
 
+
+
 ELIMINAR CARPETA .GIT 
 rm -rf .git
 
 PARA INICIAR UN REPOSITORIO
 git init
+
+PARA CLONAR UN REPOSITORIO
+git clone https://github.com/ivaniraldi/Trabajando-con-git.git
 
 PARA AÑADIR LOS ARCHIVOS PARA SUBIR
 git add .
