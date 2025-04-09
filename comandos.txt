@@ -6,3 +6,6 @@ touch = crear archivos ⚠️ COLOCAR LA EXTENSION
 
 ELIMINAR CARPETA .GIT 
 rm -rf .git
+
+
+Exitos en el desafio!!! 
