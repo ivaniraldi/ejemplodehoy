@@ -7,5 +7,18 @@ touch = crear archivos ⚠️ COLOCAR LA EXTENSION
 ELIMINAR CARPETA .GIT 
 rm -rf .git
 
+PARA INICIAR UN REPOSITORIO
+git init
+
+PARA AÑADIR LOS ARCHIVOS PARA SUBIR
+git add .
+
+PARA ETIQUETAR LOS ARCHIVOS
+git commit -m "mensaje"
+
+PARA PUSH
+git push
+
+
 
 Exitos en el desafio!!! 
